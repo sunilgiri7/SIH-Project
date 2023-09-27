@@ -30,6 +30,6 @@ Overview
     
 How to use
 
-    Click on image icon and upload image or if you are on mobile then click on camera icon and capture the waste and upload image.
-    Click on Classify your waste material button it will classify your waste and show you the result in details
-    Also save classified waste in seperate schemas
+- Click on image icon and upload image or if you are on mobile then click on camera icon and capture the waste and upload image.
+- Click on Classify your waste material button it will classify your waste and show you the result in details
+- Your classified waste get saved automatically in database
