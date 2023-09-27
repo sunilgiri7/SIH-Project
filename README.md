@@ -15,6 +15,19 @@ Overview
     Here i have trained this model till 28 epochs and i got 69.77% accuracy.
     Initially i had trained my model with Inceptionv3 and it's gave me 90.34% accuracy. But it was not accurate when i tested it on some images. But when i tested VGG16 with
     69.77% accuracy it gives me accurate result.
+
+## Technologies Used
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://github.com/tomchen/stack-icons/raw/master/logos/bootstrap.svg"></code>
+<code><img height="30" src="https://symbols.getvecta.com/stencil_80/56_flask.3a79b5a056.jpg"></code>
+<code><img height="30" src="https://d1.awsstatic.com/icons/console_elasticbeanstalk_icon.0f7eb0140e1ef6c718d3f806beb7183d06756901.png"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg"></code>
+<code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg"></code>
     
 How to use
 
